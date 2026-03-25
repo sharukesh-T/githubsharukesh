@@ -1,0 +1,13 @@
+Welcome to my project!
+
+This is a sample project created to learn and practice GitHub.
+
+In this project, I am exploring:
+- How to create repositories
+- How to upload files
+- How to manage version control
+- How to write a README file
+
+This project is just for learning purposes.
+
+Thank you for visiting!
